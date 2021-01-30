@@ -1,2 +1,3 @@
-# Nba-data-science
-Notebooks about data science and Nba basketball
+# NBA and data science
+Jupyter Notebooks about data science and NBA basketball. It includes:
+
